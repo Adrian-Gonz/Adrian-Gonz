@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Adrian-Gonz
-- 👀 I’m interested in Solidity and JS
+- 👀 I’m learning HTML, CSS and JS
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on
 - ✅ Available for work and collaborations 
