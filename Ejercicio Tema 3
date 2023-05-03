@@ -1,0 +1,21 @@
+//Primera Parte//
+
+public class TemaTresEjemplo {
+
+    public static void main(String[] args) {
+        
+        int resultado = suma (10, 3, 2);
+
+        System.out.println(resultado);
+    }
+
+
+        public static int suma (int a, int b, int c) {
+
+            int res = a + b + c;
+
+            return res;
+        }
+
+    
+}
